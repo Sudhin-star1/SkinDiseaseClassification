@@ -59,9 +59,9 @@ The model is trained using categorical cross-entropy loss and optimized using th
 
 
 ## Results
-Training Accuracy: ~XX%
+Training Accuracy: ~95%
 
-Validation Accuracy: ~YY%
+Validation Accuracy: ~96%
 
 Loss: Converges steadily, indicating good learning behavior
 
