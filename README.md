@@ -117,11 +117,13 @@ Let me know if you’d like this modified to include specific training results o
 ## 📸 Sample Images
 Here are some example images used during training:
 
-📷 Raw Input Image
+📷 [Raw Input Image1](https://github.com/Sudhin-star1/SkinDiseaseClassification/blob/main/BA-%20cellulitis%20(104).jpg)
+
+📷 [Raw Input Image2](https://github.com/Sudhin-star1/SkinDiseaseClassification/blob/main/nailFungus_39_1950.jpg)
 
 
-🧪 Augmented Image
+🧪 [Report Image](https://github.com/Sudhin-star1/SkinDiseaseClassification/blob/main/Screenshot%202025-05-10%20at%2023.12.28.png)
 
-📈 Confusion Matrix
+📈 [Confusion Matrix](https://github.com/Sudhin-star1/SkinDiseaseClassification/blob/main/Screenshot%202025-05-10%20at%2023.12.11.png)
 
-🧾 Prediction Output
+🧾 [Prediction Output](https://github.com/Sudhin-star1/SkinDiseaseClassification/blob/main/Screenshot%202025-05-10%20at%2023.13.08.png)
