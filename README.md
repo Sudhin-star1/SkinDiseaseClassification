@@ -6,8 +6,8 @@ This project aims to classify images of skin diseases using a Convolutional Neur
 
 ## 📂 Project Structure
 
-├── skin-disease-classification.ipynb # Main notebook with code and results
-├── dataset/ # Directory for skin disease images (not included)
+├── skin-disease-classification.ipynb # Main notebook with code and results \n
+├── dataset/ # Directory for skin disease images (not included) \n
 ├── README.md # Project documentation
 
 
